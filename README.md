@@ -2,7 +2,7 @@ Note: Part of the content learned during the immensely helpful coursera machine 
 
 **Feature Scaling and Cost Contours**
 
-bjectives:
+Objectives:
 - Demonstrate the importance of feature scaling
 - Visualize how feature scaling affects cost contours in gradient descent
 - Compare the effects of different learning rates on the convergence of the algorithm
